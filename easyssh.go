@@ -14,7 +14,7 @@ import (
 	"path/filepath"
 
 	"github.com/golang/crypto/ssh"
-	"github.com/golang/crypto/agent"
+	"github.com/golang/crypto/ssh/agent"
 )
 
 // Contains main authority information.
